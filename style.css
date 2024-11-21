@@ -1,0 +1,40 @@
+/* style.css */
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #ff710d;
+    color: #fdfefb;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff710d;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+footer {
+    background-color: #ff710d;
+    color: #fdfefb;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
