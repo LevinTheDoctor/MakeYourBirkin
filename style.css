@@ -1,4 +1,11 @@
 /* style.css */
+section {
+    max-height: 70vh; /* Maximalhöhe von 70% der Viewport-Höhe */
+    overflow-y: auto; /* Scrollen nur vertikal ermöglichen */
+    padding: 20px;
+    margin-bottom: 50px; /* Damit der Footer nicht direkt an den Inhalt stößt */
+}
+
 body {
     font-family: Helvetica, Arial, sans-serif;
     background-color: #ff710d;
